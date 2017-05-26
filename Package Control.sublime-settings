@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JavaScript & NodeJS Snippets",
+		"jQuery",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Qunit Snippets",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SummitLinter",
+		"Terminal"
+	]
+}
