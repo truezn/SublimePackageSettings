@@ -1,8 +1,8 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
 	"default_line_ending": "unix",
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_line": true,
 	"http_proxy": "http://proxy.sin.sap.corp:8080",
 	"https_proxy": "https://proxy.sin.sap.corp:8080",
@@ -19,5 +19,5 @@
 	"material_theme_tabs_autowidth": true,
 	"material_theme_tree_headings": true,
 	"remember_full_screen": true,
-	"theme": "Material-Theme-Darker.sublime-theme"
+	"theme": "Material-Theme-Palenight.sublime-theme"
 }
