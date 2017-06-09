@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
+		"Babel",
 		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
@@ -24,7 +26,9 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-jshint",
+		"SublimeREPL",
 		"Terminal"
 	]
 }

@@ -54,8 +54,13 @@
         },
         "lint_mode": "save only",
         "linters": {
-            "jshint": {
+            "eslint": {
                 "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "jshint": {
+                "@disable": true,
                 "args": [],
                 "excludes": []
             },
