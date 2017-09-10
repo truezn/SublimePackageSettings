@@ -93,8 +93,8 @@
         "show_marks_in_minimap": true,
         "sublimelinter": "save-only",
         "sublimelinter_executable_map": {
-            "css": "C:/Program Files/nodejs/node.exe",
-            "javascript": "C:/Program Files/nodejs/node.exe"
+            "css": "/usr/local/bin/node",
+            "javascript": "/usr/local/bin/node"
         },
         "syntax_map": {
             "html (django)": "html",

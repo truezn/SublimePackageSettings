@@ -2,12 +2,18 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
 	"default_line_ending": "unix",
-	"font_size": 13,
+	"font_size": 18,
 	"highlight_line": true,
 	"http_proxy": "http://proxy.sin.sap.corp:8080",
 	"https_proxy": "https://proxy.sin.sap.corp:8080",
 	"ignored_packages":
 	[
+		"A File Icon",
+		"jQuery Mobile Demos",
+		"jQueryDocs",
+		"JsFormat",
+		"Node Completions",
+		"React IDE",
 		"Vintage"
 	],
 	"material_theme_accent_scrollbars": true,
