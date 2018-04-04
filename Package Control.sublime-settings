@@ -7,6 +7,9 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"ABAP",
 		"AdvancedNewFile",
 		"Alignment",
 		"Babel",
@@ -17,10 +20,11 @@
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"JavaScript & NodeJS Snippets",
+		"Javatar",
 		"jQuery",
 		"Material Theme",
 		"Material Theme - Appbar",
-		"Material Theme - White Panels",
+		"Materialize-White-Panels",
 		"Package Control",
 		"PackageResourceViewer",
 		"Qunit Snippets",
@@ -28,7 +32,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"SublimeLinter-jshint",
 		"SublimeREPL",
 		"Terminal"
